@@ -11,7 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=peterkessibu&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=peterkessibu&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=peterkessibu&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+[![](https://visitcount.itsvg.in/api?id=peterkessibu&label=Profile%20Views&color=11&icon=2&pretty=false)](https://visitcount.itsvg.in)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=peterkessibu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
