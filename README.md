@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @peterkessibu<br>- 👀 I’m interested in web programming<br>- 🌱 I’m currently learning at the University of Cape Coast<br>- 💞️ I’m looking to collaborate on web programming and anything relating to Computer Science<br>- 📫 How to reach me..? check my website  <br>- ⚡ Fun fact: I love going to the beach and having time with friends
+- 👋 Hi, I’m @peterkessibu<br>- 👀 I’m interested in web programming<br>- 🌱 I’m currently learning at the University of Cape Coast<br>- 💞️ I’m looking to collaborate on web programming and anything relating to Computer Science<br>- 📫 How to reach me..? check this way https://peterkessibu.vercel.app/  <br>- ⚡ Fun fact: I love going to the beach and having time with friends
 
 
 ## 🌐 Socials:
